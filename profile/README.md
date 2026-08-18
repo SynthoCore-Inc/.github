@@ -12,7 +12,7 @@
 
 ## Products
 
-### SynthoDesk — live today in Microsoft 365
+### SynthoDesk — available soon
 Standards-based document generation and calculation tooling for Word, Excel, PowerPoint, and Outlook. Professional documents that hold their formatting, calculations that stay attached to the documents they justify.
 **[synthocore.ca/synthodesk](https://synthocore.ca/synthodesk/)**
 

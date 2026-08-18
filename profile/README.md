@@ -23,11 +23,3 @@ The engineering calculation platform: build, verify, and reuse calculations as l
 ### SynthoOps — available soon
 The complete back office for small technical companies: bookkeeping, invoicing, costing, inventory, time, CRM, documents, and audit — one system, one subscription, every record connected.
 **[synthocore.ca/synthoops](https://synthocore.ca/synthoops/)**
-
----
-
-<div align="center">
-
-We run our company on the software we sell.
-
-</div>
